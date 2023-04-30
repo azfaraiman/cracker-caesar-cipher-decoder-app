@@ -1,0 +1,15 @@
+final String SIGN_IN = 'signin';
+final String SIGN_UP = 'signup';
+final String SPLASH_SCREEN = 'splashscreen';
+final String HOME_PAGE = 'homepage';
+final String FORGOT_PASSWORD = 'forgotpassword';
+final String NEW_PASSWORD = 'newpassword';
+final String ABOUT = 'about';
+final String ENCRYPT_DECRYPT = 'encryptdecrypt';
+final String SETTINGS = 'settings';
+final String HISTORY = 'history';
+final String HOW_TO_USE = 'howtouse';
+final String FEEDBACK = 'feedback';
+final String CAESAR_WHEEL = 'caesarwheel';
+final String HOW_CAESAR = 'howcaesar';
+final String HOW_ENCRYPT = 'howencrypt';
